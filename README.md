@@ -231,3 +231,6 @@ This repository serves as the official landing page for Valve Hammer Editor. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Valve Hammer Editor today!**
+
+---
+**Last updated:** 2026-09-09 18:26:39 UTC
