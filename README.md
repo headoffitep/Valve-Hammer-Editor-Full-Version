@@ -233,4 +233,4 @@ This repository serves as the official landing page for Valve Hammer Editor. The
 **Get the most recent version of Valve Hammer Editor today!**
 
 ---
-**Last updated:** 2026-10-17 16:16:27 UTC
+**Last updated:** 2026-10-17 19:10:06 UTC
